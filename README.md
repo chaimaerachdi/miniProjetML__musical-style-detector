@@ -11,7 +11,7 @@ Réalisé par :
 • Rabbouzi safae
 
 
-#les exigences et les bibliothèques nécessaires pour l'exécution du code,
+#les exigences et les bibliothèques nécessaires pour l'exécution du code,------------------------------------------------
 
  !pip install -U scikit-learn
 
@@ -21,6 +21,6 @@ Réalisé par :
  
 pip install matplotlib
 
-#Lien du dataset:
+#Lien du dataset:---------------------------------------------------------------------------
 
 https://www.kaggle.com/datasets/chaimaerachdi/music-preferences-by-age-and-gender
