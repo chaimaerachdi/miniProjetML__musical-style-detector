@@ -1,10 +1,15 @@
 # miniProjetML__musical-style-detector
 Réalisé par :
 • El Yaakoubi Ayoub
+
 • El Hamdaoui Yassine
+
 • Essoussi Zineb
+
 • Rachdi Chaimae
+
 • Rabbouzi safae
+
 
 les exigences et les bibliothèques nécessaires pour l'exécution du code,
 
