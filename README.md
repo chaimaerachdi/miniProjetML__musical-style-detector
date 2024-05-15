@@ -9,7 +9,12 @@ Réalisé par :
 les exigences et les bibliothèques nécessaires pour l'exécution du code,
 
  !pip install -U scikit-learn
+
+ 
  !pip install graphviz
+
+ 
+pip install matplotlib
 
 Lien du dataset:
 
