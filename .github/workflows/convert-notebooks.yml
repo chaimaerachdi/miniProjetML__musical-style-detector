@@ -22,4 +22,4 @@ jobs:
 
       - name: Convert notebooks to HTML
         run: |
-          jupyter nbconvert --to html path/to/your_notebook.ipynb
+          jupyter nbconvert --to html https://colab.research.google.com/drive/1LiijXBJ8dXmseLOyVyB5AoMSU_QbgsPK#scrollTo=tDg5KVbTbjS5
