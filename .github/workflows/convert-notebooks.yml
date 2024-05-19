@@ -22,4 +22,4 @@ jobs:
 
       - name: Convert notebooks to HTML
         run: |
-          jupyter nbconvert --to html https://github.com/chaimaerachdi/miniProjetML__musical-style-detector/blob/main/miniProjet.ipynb
+          jupyter nbconvert --to html chaimaerachdi/miniProjetML__musical-style-detector/blob/main/miniProjet.ipynb
